@@ -58,8 +58,10 @@ Or run `/add-plugin x` in chat.
 | Search | Full-archive post search, user search, news search |
 | Users | Look up users by id or handle; read a user's posts, timeline, and mentions |
 | News & trends | Get news stories, get trends for a location (WOEID) |
-| Follows, likes & Spaces | Read your follows, likes, and Spaces |
-| Lists | Read and manage your lists |
+| Follows & likes | Read your follows and likes |
+| Spaces | Search Spaces (live or scheduled), look them up by id or host, and read posts shared in a Space |
+| Communities | Search communities and read a community's details |
+| Lists | Read lists, their posts, members, and followers, and a user's owned, followed, pinned, and member lists; create, edit, follow, pin, and manage members of your lists |
 | Bookmarks | Read and manage your bookmarks |
 | Blocks & mutes | Read your blocks and mutes; add or remove blocks |
 | Chat | List conversations, fetch events, send messages, typing, and read receipts; list, open, and accept message requests |

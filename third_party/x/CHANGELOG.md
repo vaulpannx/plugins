@@ -10,6 +10,7 @@ All notable changes to this plugin will be documented here.
 - Opening a message request pages its events and uses only those pages, so the preview is not decrypted twice.
 - The reading table names real tools (`get_users_by_username`, `search_posts_all`, `get_trends_by_woeid`, …) and covers trends. Recent search is `search_posts_all` with `start_time`.
 - Public reads (post lookups, search, user lookups, news, trends) live on Grok Bot's built-in X tools; their absence from the user's X connection is not an error.
+- Added Spaces (`search_spaces`, `get_spaces_by_id(s)`, `get_spaces_by_creator_ids`, `get_spaces_posts`), Communities (`search_communities`, `get_communities_by_id`), and Lists: eight reads plus `create_lists`, `update_lists`, member, follow, and pin writes. There's no tool to delete a list or read a community's posts. All are free.
 - X Chat unlock runs `unlock-check` first, so a saved key or stored PIN is used before asking for the PIN.
 
 ## 2.8.1 — Broadcast chat history
